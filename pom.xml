@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project >	<modelVersion>4.0.0</modelVersion>
-	<parent>
+<name>This is done in master Branch</name>	
+<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>1.4.2.RELEASE</version>
