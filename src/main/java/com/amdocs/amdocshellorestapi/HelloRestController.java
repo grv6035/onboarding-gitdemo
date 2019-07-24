@@ -9,6 +9,6 @@ public class HelloRestController {
     public String sayHello()
 
     {
-	return "hello rest api" ;
+	return "hello rest api" 
     }
 }
